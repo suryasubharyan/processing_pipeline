@@ -1,0 +1,6 @@
+[
+  { "name": "John Doe", "email": "john@gmail.com", "address": "New York" },
+  { "name": "Jane Smith", "email": "jane@yahoo.com", "address": "San Francisco" },
+  { "name": "Alice Brown", "email": "alice@outlook.com", "address": "London" },
+  { "name": "Bob White", "email": "bob@example.com", "address": "New York" }
+]

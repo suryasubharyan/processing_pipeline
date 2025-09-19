@@ -1,0 +1,4 @@
+all: 57.6917ms
+clean: 40.3664ms
+stats: 43.4947ms
+all: 47.6222ms

@@ -1,0 +1,28 @@
+{
+  "name": "json-cleaner-stats-cli",
+  "version": "1.0.0",
+  "description": "A professional Node.js CLI for cleaning JSON data and generating stats.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "cli",
+    "json",
+    "data-cleaning",
+    "stats",
+    "nodejs"
+  ],
+  "author": "shubham",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.8.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.3.2"
+  },
+  "type": "commonjs"
+}

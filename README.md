@@ -5,31 +5,10 @@ Built as a **mini data pipeline** to demonstrate array methods, string manipulat
 
 ---
 
-## 📂 Project Structure
-assign-1/
-│── package.json
-│── README.md
-│
-│── src/
-│ │── app.js # CLI entry point
-│ │── fileHandler.js # Reading/writing JSON
-│ │── dataCleaner.js # Normalization & validation
-│ │── statsGenerator.js # Stats (reduce, sort)
-│ │── utils.js # Regex, benchmarking, helpers
-│
-│── data/
-│ │── input.json # Raw input dataset
-│ │── output.json # Cleaned output (auto-generated)
-│
-│── benchmarks/
-│ │── results.log # Benchmark results
-│
 
 
-yaml
-Copy code
 
----
+
 
 
 ---
